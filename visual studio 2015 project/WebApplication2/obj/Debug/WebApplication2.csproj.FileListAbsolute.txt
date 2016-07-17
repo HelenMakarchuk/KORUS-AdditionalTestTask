@@ -1,0 +1,40 @@
+c:\users\елена\documents\visual studio 2015\Projects\WebApplication2\bin\roslyn\csc.exe
+c:\users\елена\documents\visual studio 2015\Projects\WebApplication2\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\елена\documents\visual studio 2015\Projects\WebApplication2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\елена\documents\visual studio 2015\Projects\WebApplication2\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\елена\documents\visual studio 2015\Projects\WebApplication2\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\елена\documents\visual studio 2015\Projects\WebApplication2\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\елена\documents\visual studio 2015\Projects\WebApplication2\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\елена\documents\visual studio 2015\Projects\WebApplication2\bin\roslyn\System.Collections.Immutable.dll
+c:\users\елена\documents\visual studio 2015\Projects\WebApplication2\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\елена\documents\visual studio 2015\Projects\WebApplication2\bin\roslyn\vbc.exe
+c:\users\елена\documents\visual studio 2015\Projects\WebApplication2\bin\roslyn\VBCSCompiler.exe
+c:\users\елена\documents\visual studio 2015\Projects\WebApplication2\bin\roslyn\VBCSCompiler.exe.config
+c:\users\елена\documents\visual studio 2015\Projects\WebApplication2\bin\WebApplication2.dll.config
+c:\users\елена\documents\visual studio 2015\Projects\WebApplication2\bin\WebApplication2.dll
+c:\users\елена\documents\visual studio 2015\Projects\WebApplication2\bin\WebApplication2.pdb
+c:\users\елена\documents\visual studio 2015\Projects\WebApplication2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\елена\documents\visual studio 2015\Projects\WebApplication2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\елена\documents\visual studio 2015\Projects\WebApplication2\obj\Debug\WebApplication2.csprojResolveAssemblyReference.cache
+c:\users\елена\documents\visual studio 2015\Projects\WebApplication2\obj\Debug\WebApplication2.dll
+c:\users\елена\documents\visual studio 2015\Projects\WebApplication2\obj\Debug\WebApplication2.pdb
+C:\Users\Елена\Documents\сделанные проекты\КОРУС_AdditionalTestTask\visual studio 2015 project\WebApplication2\bin\roslyn\csc.exe
+C:\Users\Елена\Documents\сделанные проекты\КОРУС_AdditionalTestTask\visual studio 2015 project\WebApplication2\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Елена\Documents\сделанные проекты\КОРУС_AdditionalTestTask\visual studio 2015 project\WebApplication2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Елена\Documents\сделанные проекты\КОРУС_AdditionalTestTask\visual studio 2015 project\WebApplication2\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Елена\Documents\сделанные проекты\КОРУС_AdditionalTestTask\visual studio 2015 project\WebApplication2\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Елена\Documents\сделанные проекты\КОРУС_AdditionalTestTask\visual studio 2015 project\WebApplication2\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Елена\Documents\сделанные проекты\КОРУС_AdditionalTestTask\visual studio 2015 project\WebApplication2\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Елена\Documents\сделанные проекты\КОРУС_AdditionalTestTask\visual studio 2015 project\WebApplication2\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Елена\Documents\сделанные проекты\КОРУС_AdditionalTestTask\visual studio 2015 project\WebApplication2\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Елена\Documents\сделанные проекты\КОРУС_AdditionalTestTask\visual studio 2015 project\WebApplication2\bin\roslyn\vbc.exe
+C:\Users\Елена\Documents\сделанные проекты\КОРУС_AdditionalTestTask\visual studio 2015 project\WebApplication2\bin\roslyn\VBCSCompiler.exe
+C:\Users\Елена\Documents\сделанные проекты\КОРУС_AdditionalTestTask\visual studio 2015 project\WebApplication2\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Елена\Documents\сделанные проекты\КОРУС_AdditionalTestTask\visual studio 2015 project\WebApplication2\bin\WebApplication2.dll.config
+C:\Users\Елена\Documents\сделанные проекты\КОРУС_AdditionalTestTask\visual studio 2015 project\WebApplication2\bin\WebApplication2.dll
+C:\Users\Елена\Documents\сделанные проекты\КОРУС_AdditionalTestTask\visual studio 2015 project\WebApplication2\bin\WebApplication2.pdb
+C:\Users\Елена\Documents\сделанные проекты\КОРУС_AdditionalTestTask\visual studio 2015 project\WebApplication2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Елена\Documents\сделанные проекты\КОРУС_AdditionalTestTask\visual studio 2015 project\WebApplication2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Елена\Documents\сделанные проекты\КОРУС_AdditionalTestTask\visual studio 2015 project\WebApplication2\obj\Debug\WebApplication2.csprojResolveAssemblyReference.cache
+C:\Users\Елена\Documents\сделанные проекты\КОРУС_AdditionalTestTask\visual studio 2015 project\WebApplication2\obj\Debug\WebApplication2.dll
+C:\Users\Елена\Documents\сделанные проекты\КОРУС_AdditionalTestTask\visual studio 2015 project\WebApplication2\obj\Debug\WebApplication2.pdb
